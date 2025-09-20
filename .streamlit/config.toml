@@ -1,0 +1,23 @@
+[theme]
+base = "light"
+primaryColor = "#4436ff"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#e9edff"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[server]
+fileWatcherType = "auto"
+runOnSave = true
+
+[runner]
+magicEnabled = true
+fastReruns = true
+
+[browser]
+gatherUsageStats = false
+
+[ui]
+hideTopBar = true

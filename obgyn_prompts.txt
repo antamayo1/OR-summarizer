@@ -1,0 +1,103 @@
+Robotic Hysterectomy: 
+**IMPORTANT**
+Please include the following in the report:
+* (**CRUCIAL**: Add it in the **REQUIRED SECTIONS**)Document robot model, docking approach, ports.
+* List uterus size, adnexal status, pathology.
+* Include EBL, complications, robotic console time.
+
+Cesarean Section:
+**IMPORTANT**
+Please include the following in the report:
+* Note incision type, fetal position, extraction.
+* Placenta delivery details, uterine closure.
+* Record blood loss, anesthesia, complications.
+
+Laparoscopic Surgery: 
+Specify ports used, abdominal findings clearly.
+Detail lesions treated, biopsies, instruments.
+Include anesthesia type, procedure duration, EBL.
+
+Myomectomy: 
+Report fibroid number, sizes, exact locations.
+List incision method, suture technique clearly.
+Note blood loss, uterine integrity post-op.
+
+Ovarian Cystectomy: 
+Cyst size and appearance described in detail.
+Technique of cyst removal, hemostasis clearly.
+Include ovarian preservation, pathology sent.
+
+Endometrial Ablation: 
+Ablation device type, duration clearly noted.
+Endometrial preparation, uterine cavity status.
+Mention complications, anesthesia provided.
+
+Tubal Ligation: 
+Specify ligation method clearly (clips, cautery).
+Confirm tubal patency status, bilateral detail.
+Document anesthesia, incision, and complications.
+
+Dilation & Curettage: 
+Cervical dilation method, maximum size clearly.
+Describe curettings volume and appearance fully.
+Pathology specimens collected clearly noted.
+
+Colposcopy: 
+Clearly specify colposcopic findings and areas.
+Identify biopsies taken and exact locations.
+Detail any complications or patient tolerance.
+
+LEEP Procedure: 
+Clearly describe lesion size, shape, location.
+Confirm margins status, cautery settings used.
+Include anesthesia and complications clearly.
+
+Pelvic Organ Prolapse Repair: 
+Specify prolapse type, stage, compartments involved.
+Surgical method, mesh usage, suture clearly noted.
+Document bladder/rectal integrity, EBL, complications.
+
+Vaginal Delivery: 
+Detail labor duration, delivery position clearly.
+Note fetal status, perineal integrity specifically.
+Include placenta delivery details and EBL clearly.
+
+Operative Vaginal Delivery: 
+Identify instrument used, fetal head position.
+List number of pulls, maternal-fetal outcomes.
+Clearly document perineal trauma or complications.
+
+Diagnostic Hysteroscopy: 
+Describe uterine cavity findings comprehensively.
+Clearly document endometrial pathology visualized.
+Include procedure tolerance and complications.
+
+Salpingectomy: 
+Specify fallopian tube appearance, method removal.
+Note ovarian condition, adhesions specifically.
+Document blood loss, complications clearly noted.
+
+Oophorectomy: 
+Specify ovarian pathology, exact appearance.
+Detail removal method, hemostatic techniques used.
+Include EBL, adjacent structures evaluation.
+
+Ectopic Pregnancy Surgery: 
+Clearly state ectopic pregnancy location and size.
+Specify surgical technique and tissue removal.
+Record tube preservation status and complications.
+
+Vulvar Biopsy: 
+Clearly note biopsy location, size, appearance.
+Document local anesthesia method, patient tolerance.
+Include hemostasis method and complications clearly.
+
+Cervical Cerclage: 
+Clearly specify cerclage type (McDonald, Shirodkar).
+Document cervical length pre- and post-procedure.
+Include suture material, anesthesia, complications.
+
+Endometriosis Excision: 
+Detail location, extent, and depth of endometriosis.
+Clearly specify excision method and instrument used.
+Note hemostasis achieved and adjacent organ status.
