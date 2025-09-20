@@ -1,3 +1,4 @@
 streamlit
 openai
 pydub
+audioop-lts==0.2.2
